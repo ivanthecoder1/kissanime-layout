@@ -1,0 +1,104 @@
+body {
+    background-color:rgb(53, 53, 53);
+    color: whitesmoke;
+}
+
+#logo {
+    display: inline-block;
+    color: lightgreen;
+    font-size: 50px;
+    position: relative;
+    right: -270px;
+
+}
+
+#searchBox {
+    background-color: rgb(68, 63, 63);
+    border-radius: 3px;
+    border-width: 4px;
+    border: white;
+    width: 200px;
+    height: 35px;
+    float: right;
+    margin-top: 50px;
+    position: relative;
+    left: -355px;
+}
+
+#search {
+    background-color: darkgreen;
+    padding: 10px; 
+    border-radius: 10px;
+    font-size: 15px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 50px;
+    position: relative;
+    left: -80px;
+
+}
+
+
+.updater p {
+    padding: 10px;
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    position: relative;
+    right: -270px;
+    bottom: -70px;
+
+}
+
+.updater h3 {
+    background-color: green;
+    color: green;
+}
+
+.updater h4 {
+    background-color: green;
+    padding: 10px;
+    width: 500px;
+    height: 15px;
+    position: relative;
+    right: -270px;
+    bottom: -90px;
+}
+
+.announcement p {
+    padding: 20px;
+    background-color: black;
+    position: relative;
+    right: -825px;
+    top: -125px;
+    width: 180px;
+    color: lightgreen;
+}
+.announcement h3 {
+    padding: 10px;
+    background-color: green;
+    position: relative;
+    right: -825px;
+    top: -105px;
+    width: 200px;
+    height: 15px;
+}
+
+.series h3 {
+    background-color: green;
+    width: 200px;
+    position: relative;
+    right: -825px;
+    top: -125px;
+    padding: 10px;
+}
+
+.series p {
+    background-color: black;
+    color: lightgreen;
+    width: 200px;
+    position: relative;
+    right: -825px;
+    top: -145px;
+    padding: 10px;
+}
